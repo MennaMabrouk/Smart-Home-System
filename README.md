@@ -1,5 +1,5 @@
 # Smart-Home-System
-The focus of this project is on creating a smart home system.
+The Focus Of tThis Project Is On Creating A Smart Home System.
 
 Used Drivers:
 
